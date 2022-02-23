@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { VBComponent } from './vb/vb.component';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-first-angular-project1';
-}
+  }
